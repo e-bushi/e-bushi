@@ -1,12 +1,12 @@
 # Whats up, all. My name is Chris 🗡️...
 
-I'm a digital nomad developer, currently in the UK. I can create mobile and web apps.
+I'm a digital nomad 🌍 developer, currently in the UK 🇬🇧. I create mobile📱 and web👨‍💻 apps .
 
 ## 🧰 Toolbox:
-______
 
-Frontend Development: 
-Backend
+Frontend Development: `SwiftUI` `React` `Swift` `Typescript` `NextJS` `Tailwind`
+Backend Development: `SQL` `Postgres` `Supabase` `Render` `Vercel` `Digital Ocean`
+Others: `Jira` `Confluence` `Notion` `Slack`
 
 Some details:
 - 🔭 I’m currently working on a living e-book app

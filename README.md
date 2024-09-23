@@ -5,7 +5,9 @@ I'm a digital nomad 🌍 developer, currently in the UK 🇬🇧. I create mobil
 ## 🧰 Toolbox:
 
 Frontend Development: `SwiftUI` `React` `Swift` `Typescript` `NextJS` `Tailwind`
+
 Backend Development: `SQL` `Postgres` `Supabase` `Render` `Vercel` `Digital Ocean`
+
 Others: `Jira` `Confluence` `Notion` `Slack`
 
 Some details:

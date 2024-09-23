@@ -18,6 +18,7 @@ Favorite Movies: `The Matrix` `Dune`
 
 Some details:
 - 🔭 I’m currently working on a living e-book app that teaches beginners how to code.
+- I also teach students how to code in 1-1 sessions
 - 💬 In my spare time, I go on missions with section 9. IFYKYK
 - ⚡ Fun fact: I've created my own language before. Unfortunately had no one to speak it with though.
 

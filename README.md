@@ -1,6 +1,6 @@
-# Based Bushido...
+# Chris Mauldin...
 
-I'm a digital nomad 🌍 developer, currently in the UK 🇬🇧. I create mobile📱 and web👨‍💻 apps .
+An iOS engineer that travels back and forth between US & UK.
 
 ## 🧰 Toolbox:
 

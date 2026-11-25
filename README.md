@@ -4,7 +4,7 @@ Humans are the ultimate harness.
 
 Frontend Development: `SwiftUI` `Swift` `iOS Development` `React` `Typescript` `NextJS` `Tailwind`
 
-Backend Development: `SQL` `Postgres` `Supabase` `Render` `Railway` `Vercel`
+Platforms & Tools: `Supabase` `Render` `Railway` `Vercel` `Xcode` `Instruments`
 
 Others: `Jira` `Linear` `Notion` `Slack` `Claude Code` `Cursor`
 
